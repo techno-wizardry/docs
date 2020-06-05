@@ -52,6 +52,8 @@ Topics:
   File: install_kubernetes
 - Name: OpenShift
   File: install_openshift
+- Name: VMware Tanzu Enterprise PKS
+  File: install_pks
 - Name: Amazon ECS
   File: install_amazon_ecs
 - Name: Docker Swarm
@@ -410,8 +412,8 @@ Topics:
   File: alert_mechanism
 - Name: AWS Security Hub
   File: aws_security_hub
-- Name: Demisto
-  File: demisto
+- Name: Cortex XSOAR
+  File: xsoar
 - Name: Email
   File: email
 - Name: Google Cloud Pub/Sub

@@ -58,7 +58,7 @@ Topics:
   File: install_kubernetes
 - Name: OpenShift
   File: install_openshift
-- Name: Pivotal Container Service
+- Name: VMware Tanzu Enterprise PKS
   File: install_pks
 - Name: Docker Swarm
   File: install_swarm
@@ -446,8 +446,8 @@ Topics:
   File: alert_mechanism
 - Name: AWS Security Hub
   File: aws_security_hub
-- Name: Demisto
-  File: demisto
+- Name: Cortex XSOAR
+  File: xsoar
 - Name: Email
   File: email
 - Name: Google Cloud Pub/Sub
@@ -536,8 +536,8 @@ Dir: howto
 Topics:
 - Name: Howto
   File: howto
-- Name: Configure an AWS load balancer
-  File: configure_aws_nlb
+- Name: Configure an ECS load balancer
+  File: configure_ecs_loadbalancer
 - Name: Use Nginx Ingress Controller
   File: configure_nginx_ingress
 - Name: Configure the load balancer type for AWS EKS
